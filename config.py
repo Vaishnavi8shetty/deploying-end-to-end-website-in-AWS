@@ -1,6 +1,6 @@
 customhost="database-1.cnoi0gcw69j7.ap-south-1.rds.amazonaws.com"
 customuser="admin"
 custompass="Vaishnavishetty"
-custommdb="buss"
+customdb="buss"
 custombucket="addemployees8"
 customregion="ap-south-1"
